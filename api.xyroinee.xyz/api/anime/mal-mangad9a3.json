@@ -1,0 +1,79 @@
+{
+  "status": "Success",
+  "code": 200,
+  "author": "Zeltoria",
+  "data": [
+    {
+      "title": "Naruto",
+      "type": "Manga",
+      "vol": "72",
+      "score": "8.07",
+      "link": "https://myanimelist.net/manga/11/Naruto",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/manga/3/249658.jpg?s=a644bb1e15a7c6e32a70a9d6fe61e501"
+    },
+    {
+      "title": "Naruto",
+      "type": "One-shot",
+      "vol": "-",
+      "score": "6.49",
+      "link": "https://myanimelist.net/manga/6444/Naruto",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/manga/1/125935.jpg?s=271503896901f640bd4b346d31705e3c"
+    },
+    {
+      "title": "Boruto: Naruto Next Generations",
+      "type": "Manga",
+      "vol": "20",
+      "score": "6.85",
+      "link": "https://myanimelist.net/manga/95210/Boruto__Naruto_Next_Generations",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/manga/3/181968.jpg?s=f9673cdd37df97ceaefe39e8a50514c1"
+    },
+    {
+      "title": "Naruto Shinden Series",
+      "type": "Light Novel",
+      "vol": "3",
+      "score": "8.32",
+      "link": "https://myanimelist.net/manga/90531/Naruto_Shinden_Series",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/manga/2/190847.jpg?s=429a6da11afeb70decef72ea6951b568"
+    },
+    {
+      "title": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
+      "type": "Manga",
+      "vol": "1",
+      "score": "7.17",
+      "link": "https://myanimelist.net/manga/87866/Naruto_Gaiden__Nanadaime_Hokage_to_Akairo_no_Hanatsuzuki",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/manga/2/161762.jpg?s=00462f2a9aa821b2b1a17145e33a34f1"
+    },
+    {
+      "title": "Naruto Hiden Series",
+      "type": "Light Novel",
+      "vol": "6",
+      "score": "7.75",
+      "link": "https://myanimelist.net/manga/86129/Naruto_Hiden_Series",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/manga/1/175457.jpg?s=1523cc0f43a06f7ef35ced6f542503fe"
+    },
+    {
+      "title": "Naruto Ninden Series",
+      "type": "Light Novel",
+      "vol": "2",
+      "score": "7.61",
+      "link": "https://myanimelist.net/manga/40225/Naruto_Ninden_Series",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/manga/2/70963.jpg?s=f1d0a20509695d70ed36398d95d863c9"
+    },
+    {
+      "title": "Naruto Gaiden: Uzu no Naka no Tsumujikaze",
+      "type": "One-shot",
+      "vol": "-",
+      "score": "7.93",
+      "link": "https://myanimelist.net/manga/160710/Naruto_Gaiden__Uzu_no_Naka_no_Tsumujikaze",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/manga/3/285320.jpg?s=61a0537a63adc0b2b0cd56078552f0b2"
+    },
+    {
+      "title": "The Last: Naruto the Movie",
+      "type": "Light Novel",
+      "vol": "1",
+      "score": "7.87",
+      "link": "https://myanimelist.net/manga/83257/The_Last__Naruto_the_Movie",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/manga/1/144797.jpg?s=0d3250d2c0a73f19a7d151687c9f1f6f"
+    }
+  ]
+}

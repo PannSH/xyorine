@@ -1,0 +1,100 @@
+{
+  "status": "Success",
+  "code": 200,
+  "author": "Zeltoria",
+  "data": {
+    "isManga": true,
+    "title": "Komik Naruto: Konoha’s Story—The Steam Ninja Scrolls",
+    "metadata": {
+      "awal": "Chapter 01.1",
+      "terbaru": "Chapter 15",
+      "judul_indonesia": "Naruto: Kisah Konoha—Gulungan Ninja Uap",
+      "jenis_komik": "Manga",
+      "konsep_cerita": "Aksi",
+      "komikus": "Kishimoto Masashi & Hinata Shou & Sai Natsuo",
+      "status": "Ongoing",
+      "umur_pembaca": "15 Tahun (minimal)",
+      "jumlah_pembaca": "0 (-)",
+      "cara_baca": "Kanan ke kiri"
+    },
+    "description": "Novel spin-off Naruto sekarang menjadi seri manga! Pensiunan Kakashi dan Guy pergi ke sumber air panas di Negeri Air Panas dengan pengawal mereka, Sarutobi Mirai! Sebuah kisah yang menghubungkan dua generasi melalui kekuatan ikatan!",
+    "chapters": [
+      {
+        "chapter": "Chapter 15",
+        "url": "https://komiku.id/ch/httpsadmin-komiku-orgnaruto-konohas-story-the-steam-ninja-scrolls-chapter-15/"
+      },
+      {
+        "chapter": "Chapter 14",
+        "url": "https://komiku.id/ch/httpsadmin-komiku-orgnaruto-konohas-story-the-steam-ninja-scrolls-chapter-14/"
+      },
+      {
+        "chapter": "Chapter 13",
+        "url": "https://komiku.id/ch/httpsadmin-komiku-orgnaruto-konohas-story-the-steam-ninja-scrolls-chapter-13/"
+      },
+      {
+        "chapter": "Chapter 12",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-12/"
+      },
+      {
+        "chapter": "Chapter 11",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-11/"
+      },
+      {
+        "chapter": "Chapter 10.2",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-10-2/"
+      },
+      {
+        "chapter": "Chapter 10.1",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-10-1/"
+      },
+      {
+        "chapter": "Chapter 9",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-09/"
+      },
+      {
+        "chapter": "Chapter 8",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-08/"
+      },
+      {
+        "chapter": "Chapter 7",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-07/"
+      },
+      {
+        "chapter": "Chapter 6",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-06/"
+      },
+      {
+        "chapter": "Chapter 5",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-05/"
+      },
+      {
+        "chapter": "Chapter 4",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-04/"
+      },
+      {
+        "chapter": "Chapter 3.2",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-03-2/"
+      },
+      {
+        "chapter": "Chapter 3.1",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-03-1/"
+      },
+      {
+        "chapter": "Chapter 2.2",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-02-2/"
+      },
+      {
+        "chapter": "Chapter 2.1",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-02-1/"
+      },
+      {
+        "chapter": "Chapter 1.2",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-01-2/"
+      },
+      {
+        "chapter": "Chapter 1.1",
+        "url": "https://komiku.id/ch/naruto-konohas-story-the-steam-ninja-scrolls-chapter-01-1/"
+      }
+    ]
+  }
+}

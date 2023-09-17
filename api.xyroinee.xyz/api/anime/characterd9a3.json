@@ -1,0 +1,87 @@
+{
+  "status": "Success",
+  "code": 200,
+  "author": "Zeltoria",
+  "data": [
+    {
+      "name": "Uzumaki, Naruto",
+      "alias_name": "(Nine-Tails Jinchuuriki)",
+      "url": "https://myanimelist.net/character/17/Naruto_Uzumaki",
+      "thumbnail": "https://cdn.myanimelist.net/r/42x62/images/characters/2/284121.jpg?s=3ebac88ad166bf105d8f04894f3fb469",
+      "anime": "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!",
+      "manga": "Naruto SD: Rock Lee no Seishun Full-Power Ninden"
+    },
+    {
+      "name": "Naruto, Miyu",
+      "alias_name": "No Alias",
+      "url": "https://myanimelist.net/character/210984/Miyu_Naruto",
+      "thumbnail": "https://cdn.myanimelist.net/r/42x62/images/characters/8/475995.jpg?s=9e8c3d70e2e1ca288766d86b75f06904",
+      "anime": "Deaimon",
+      "manga": "No In Manga"
+    },
+    {
+      "name": "Naruto, Rie",
+      "alias_name": "No Alias",
+      "url": "https://myanimelist.net/character/153452/Rie_Naruto",
+      "thumbnail": "https://cdn.myanimelist.net/r/42x62/images/characters/10/336813.jpg?s=21cf8bdd20f3d938afeecb824143b0b9",
+      "anime": "Karadasagashi",
+      "manga": "No In Manga"
+    },
+    {
+      "name": "Kuroki, Naruto",
+      "alias_name": "No Alias",
+      "url": "https://myanimelist.net/character/174863/Naruto_Kuroki",
+      "thumbnail": "https://cdn.myanimelist.net/r/42x62/images/characters/14/391911.jpg?s=39da3ba9e2f39dc2efd5126a89009233",
+      "anime": "No In Anime",
+      "manga": "No In Manga"
+    },
+    {
+      "name": "Naruto, Tomoe",
+      "alias_name": "No Alias",
+      "url": "https://myanimelist.net/character/148417/Tomoe_Naruto",
+      "thumbnail": "https://cdn.myanimelist.net/r/42x62/images/characters/6/410383.jpg?s=d74a7cc0a5e8b4ec2c9d23f62fe2a030",
+      "anime": "Hataraku Otona no Renai Jijou The Animation",
+      "manga": "No In Manga"
+    },
+    {
+      "name": "Oonaruto, Muni",
+      "alias_name": "No Alias",
+      "url": "https://myanimelist.net/character/181307/Muni_Oonaruto",
+      "thumbnail": "https://cdn.myanimelist.net/r/42x62/images/characters/16/406900.jpg?s=a1fc07b6b454cab7659f9ca3750960e8",
+      "anime": "D4DJ Petit Mix",
+      "manga": "D4DJ First Mix"
+    },
+    {
+      "name": "Naruto, Kotarou",
+      "alias_name": "(Ko-chan)",
+      "url": "https://myanimelist.net/character/80203/Kotarou_Naruto",
+      "thumbnail": "https://cdn.myanimelist.net/r/42x62/images/characters/12/267095.jpg?s=a3ace03845a54ccbd404a2be9e1f95e3",
+      "anime": "Dansai Bunri no Crime Edge",
+      "manga": "No In Manga"
+    },
+    {
+      "name": "Naruto-kun",
+      "alias_name": "No Alias",
+      "url": "https://myanimelist.net/character/114827/Naruto-kun",
+      "thumbnail": "https://cdn.myanimelist.net/r/42x62/images/characters/16/261619.jpg?s=aaecff3073aecc94b7698afacbc73d5e",
+      "anime": "Sore Ike! Anpanman",
+      "manga": "No In Manga"
+    },
+    {
+      "name": "Nozaki, Naruto",
+      "alias_name": "No Alias",
+      "url": "https://myanimelist.net/character/147081/Naruto_Nozaki",
+      "thumbnail": "https://cdn.myanimelist.net/r/42x62/images/characters/2/457186.jpg?s=dd9496bafb6d3a18ff30ec101736863d",
+      "anime": "Juliet",
+      "manga": "No In Manga"
+    },
+    {
+      "name": "Ishikawa, Narutoshi",
+      "alias_name": "(Niko, Knight of Loyalty)",
+      "url": "https://myanimelist.net/character/30935/Narutoshi_Ishikawa",
+      "thumbnail": "https://cdn.myanimelist.net/r/42x62/images/characters/10/82334.jpg?s=6747a0ceee570743a799b35ba0101802",
+      "anime": "Litchi DE Hikari Club",
+      "manga": "No In Manga"
+    }
+  ]
+}

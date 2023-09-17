@@ -1,0 +1,34 @@
+{
+  "status": "Success",
+  "code": 200,
+  "author": "Zeltoria",
+  "data": [
+    {
+      "title": "Naruto: Konoha’s Story—The Steam Ninja Scrolls",
+      "title_id": "Naruto: Kisah Konoha—Gulungan Ninja Uap",
+      "awal": "Chapter 01.1",
+      "terbaru": "Chapter 15",
+      "description": "Update 4 bulan lalu. Novel spin-off Naruto sekarang menjadi seri manga!",
+      "thumbnail": "https://thumbnail.komiku.id/wp-content/uploads/2022/10/Komik-Naruto-Konohas-Story-The-Steam-Ninja-Scrolls.jpg",
+      "url": "https://komiku.id/manga/naruto-konohas-story-the-steam-ninja-scrolls/"
+    },
+    {
+      "title": "Naruto Sasuke’s Story The Uchiha And The Heavenly Stardust",
+      "title_id": "Naruto Kisah Sasuke Sang Uchiha Dan Debu Bintang Surgawi",
+      "awal": "Chapter 01.1",
+      "terbaru": "Chapter 10",
+      "description": "Update 5 bulan lalu. diadaptasi dari Novel (?) Uchiha Sasuke jauh dari Negara Api.",
+      "thumbnail": "https://thumbnail.komiku.id/wp-content/uploads/2022/10/Komik-Naruto-Sasukes-Story-The-Uchiha-And-The-Heavenly-Stardust.jpg",
+      "url": "https://komiku.id/manga/naruto-sasukes-story-the-uchiha-and-the-heavenly-stardust/"
+    },
+    {
+      "title": "Naruto",
+      "title_id": "Naruto",
+      "awal": "Chapter 1",
+      "terbaru": "Chapter 711",
+      "description": "Update 3 tahun lalu. Naruto adalah ninja adalah sesama penghuni desa.",
+      "thumbnail": "https://thumbnail.komiku.id/wp-content/uploads/2020/08/Komik-Naruto.jpg",
+      "url": "https://komiku.id/manga/naruto/"
+    }
+  ]
+}

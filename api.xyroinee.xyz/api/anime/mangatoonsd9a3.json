@@ -1,0 +1,39 @@
+{
+  "status": "Success",
+  "code": 200,
+  "author": "Zeltoria",
+  "data": [
+    {
+      "status": 200,
+      "author": "Zeltoria",
+      "judul": "Naruto",
+      "genre": "",
+      "link": "https://mangatoon.mobihttps://allmanga.cc/en/internet/34",
+      "thumbnail": "/images/content_cover_default.webp"
+    },
+    {
+      "status": 200,
+      "author": "Zeltoria",
+      "judul": "Boruto: Naruto Next Generations",
+      "genre": "",
+      "link": "https://mangatoon.mobihttps://allmanga.cc/en/internet/10600",
+      "thumbnail": "/images/content_cover_default.webp"
+    },
+    {
+      "status": 200,
+      "author": "Zeltoria",
+      "judul": "Boruto: Naruto Next Generations",
+      "genre": "",
+      "link": "https://mangatoon.mobihttps://allmanga.cc/en/internet/10294",
+      "thumbnail": "/images/content_cover_default.webp"
+    },
+    {
+      "status": 200,
+      "author": "Zeltoria",
+      "judul": " Boruto: Naruto Next Generations anime",
+      "genre": "",
+      "link": "https://mangatoon.mobihttps://allmanga.cc/en/internet/10302",
+      "thumbnail": "/images/content_cover_default.webp"
+    }
+  ]
+}

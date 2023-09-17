@@ -1,0 +1,79 @@
+{
+  "status": "Success",
+  "code": 200,
+  "author": "Zeltoria",
+  "data": [
+    {
+      "title": "The Last: Naruto the Movie",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/anime/1491/134498.jpg?s=5901e3c64e9aa59250cd36194ada2e31",
+      "url": "https://myanimelist.net/anime/16870/The_Last__Naruto_the_Movie",
+      "type": "TV",
+      "episode": "500",
+      "score": "8.26"
+    },
+    {
+      "title": "Boruto: Naruto the Movie",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/anime/4/78280.jpg?s=9d8b257b29ff99f0f136562547d0d465",
+      "url": "https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie",
+      "type": "Movie",
+      "episode": "1",
+      "score": "7.79"
+    },
+    {
+      "title": "Naruto: Shippuuden Movie 2 - Kizuna",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/anime/1484/134494.jpg?s=fd9bca84df829e980e0200445210d425",
+      "url": "https://myanimelist.net/anime/4437/Naruto__Shippuuden_Movie_2_-_Kizuna",
+      "type": "Movie",
+      "episode": "1",
+      "score": "7.39"
+    },
+    {
+      "title": "Naruto: Shippuuden Movie 4 - The Lost Tower",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/anime/1479/116734.jpg?s=b548d20a8e17963f03657b92f37df886",
+      "url": "https://myanimelist.net/anime/8246/Naruto__Shippuuden_Movie_4_-_The_Lost_Tower",
+      "type": "Movie",
+      "episode": "1",
+      "score": "7.28"
+    },
+    {
+      "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/anime/6/77678.jpg?s=fc407cec1b4439623be598ad1eb31867",
+      "url": "https://myanimelist.net/anime/32365/Boruto__Naruto_the_Movie_-_Naruto_ga_Hokage_ni_Natta_Hi",
+      "type": "Movie",
+      "episode": "1",
+      "score": "7.42"
+    },
+    {
+      "title": "Naruto: Shippuuden Movie 5 - Blood Prison",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/anime/1500/134496.jpg?s=169e7a2c20e9f51bf7fb9da5475252c0",
+      "url": "https://myanimelist.net/anime/10589/Naruto__Shippuuden_Movie_5_-_Blood_Prison",
+      "type": "Special",
+      "episode": "1",
+      "score": "7.33"
+    },
+    {
+      "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/anime/1620/94336.jpg?s=12e72e32bba541ac795227b2278f8c72",
+      "url": "https://myanimelist.net/anime/13667/Naruto__Shippuuden_Movie_6_-_Road_to_Ninja",
+      "type": "Movie",
+      "episode": "1",
+      "score": "7.46"
+    },
+    {
+      "title": "Naruto: Shippuuden Movie 1",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/anime/1703/134493.jpg?s=3e207fda988fe1d2cd933b8bf5f23e34",
+      "url": "https://myanimelist.net/anime/2472/Naruto__Shippuuden_Movie_1",
+      "type": "Movie",
+      "episode": "1",
+      "score": "7.68"
+    },
+    {
+      "title": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+      "thumbnail": "https://cdn.myanimelist.net/r/50x70/images/anime/13/36475.jpg?s=afbabba381a6eebe252dc3c6ed09067a",
+      "url": "https://myanimelist.net/anime/12979/Naruto_SD__Rock_Lee_no_Seishun_Full-Power_Ninden",
+      "type": "Movie",
+      "episode": "1",
+      "score": "7.29"
+    }
+  ]
+}

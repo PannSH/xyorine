@@ -1,0 +1,8 @@
+-@i4 -O /storage/emulated/0/HTTrack/Websites/web2 -iC1A25000k%Pntx%q0u1s2%s%u%fBaK0H0N0p3 https://api.xyroinee.xyz/dashboard/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* -%R https://api.xyroinee.xyz/dashboard
+File generated automatically on Sun, 17 Sep 2023 08:57:25, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

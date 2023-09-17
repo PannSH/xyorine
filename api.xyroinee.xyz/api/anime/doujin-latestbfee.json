@@ -1,0 +1,9 @@
+{
+  "status": "Success",
+  "code": 200,
+  "author": "Zeltoria",
+  "data": {
+    "error": true,
+    "message": "TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined."
+  }
+}
